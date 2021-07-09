@@ -1,5 +1,5 @@
-# quant_valrAPI_excerpt
-An excerpt of my quantitative algorithm working with data from VALR's API.
+# quant_valrAPI_extract
+An extract of my quantitative algorithm working with data from VALR's API.
 
 The code below is an excerpt that connects to a user's exchange acount to enter and exit long and short positions. 
 These decisions are based off calculations made with candlestick data obtained from Binance's API.
